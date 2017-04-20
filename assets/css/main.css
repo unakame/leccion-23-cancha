@@ -6,11 +6,8 @@
   margin: 100px 800px 0px 430px;
 }
 
-<<<<<<< HEAD
-#cuadro{
-=======
+
 #square{
->>>>>>> master
   width:250px;
   height: 70px;
   padding: 70px;
@@ -20,8 +17,7 @@
   z-index: +1;
   position: absolute;
 }
-<<<<<<< HEAD
-=======
+
 
 #circle{
   width: 60px;
@@ -34,7 +30,6 @@
   margin-left: 605px;
   margin-top: 180px;
   position: absolute;
-
 }
 
 #square1{
@@ -53,7 +48,6 @@
   margin-left: 767px;
   margin-top: 160px;
   position: absolute;
-
 }
 
 .ball{
@@ -90,4 +84,3 @@
   font-size: 7px;
   font-family: monospace;
 }
->>>>>>> master

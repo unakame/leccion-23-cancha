@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-var fondo = document.createElement("div");
-            document.body.appendChild(fondo);
-            fondo.setAttribute("id","cancha");
-
-
-var borde = document.createElement("div");
-            document.body.appendChild(borde);
-            borde.setAttribute("id","cuadro");
-            
-=======
 var fondo  =  document.createElement("div");
               document.body.appendChild(fondo);
               fondo.setAttribute("id","field");
@@ -50,4 +39,3 @@ var texto   = document.createElement("p");
 
 var labo    = document.createTextNode("Laboratoria 2017");
               texto.appendChild(labo);
->>>>>>> master
