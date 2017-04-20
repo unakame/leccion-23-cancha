@@ -1,4 +1,4 @@
-#cancha{
+#field{
   width: 413px;
   height: 230px;
   position: absolute;
@@ -6,7 +6,7 @@
   margin: 100px 800px 0px 430px;
 }
 
-#cuadro{
+#square{
   width:250px;
   height: 70px;
   padding: 70px;
@@ -15,4 +15,18 @@
   margin-left: 440px;
   z-index: +1;
   position: absolute;
+}
+
+#circle{
+  width: 60px;
+  height: 60px;
+  border: 1px solid #F0F0F0;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  z-index: +2;
+  margin-left: 605px;
+  margin-top: 180px;
+  position: absolute;
+
 }
