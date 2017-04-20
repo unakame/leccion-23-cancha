@@ -33,3 +33,10 @@ var esfera3= document.createElement("div");
               document.body.appendChild(esfera3);
               esfera3.setAttribute("class","ball");
               esfera3.setAttribute("id","ball3");
+
+var texto = document.createElement("p");
+            document.body.appendChild(texto);
+            texto.setAttribute("id","phrase");
+            
+var labo=   document.createTextNode("Laboratoria 2017");
+            texto.appendChild(labo);

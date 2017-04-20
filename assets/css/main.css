@@ -77,3 +77,12 @@
   position: absolute;
 
 }
+
+#phrase{
+  margin-left: 760px;
+  margin-top: 322px;
+  position: absolute;
+  font-size: 7px;
+  font-family: monospace;
+
+}
