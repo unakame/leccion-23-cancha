@@ -1,4 +1,4 @@
-#cancha{
+#field{
   width: 413px;
   height: 230px;
   position: absolute;
@@ -6,7 +6,11 @@
   margin: 100px 800px 0px 430px;
 }
 
+<<<<<<< HEAD
 #cuadro{
+=======
+#square{
+>>>>>>> master
   width:250px;
   height: 70px;
   padding: 70px;
@@ -16,3 +20,74 @@
   z-index: +1;
   position: absolute;
 }
+<<<<<<< HEAD
+=======
+
+#circle{
+  width: 60px;
+  height: 60px;
+  border: 1px solid #F0F0F0;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  z-index: +2;
+  margin-left: 605px;
+  margin-top: 180px;
+  position: absolute;
+
+}
+
+#square1{
+  width:63px;
+  height: 104px;
+  border: 1px solid #F0F0F0;
+  margin-left: 440px;
+  margin-top: 160px;
+  position: absolute;
+}
+
+#square2{
+  width:63px;
+  height: 104px;
+  border: 1px solid #F0F0F0;
+  margin-left: 767px;
+  margin-top: 160px;
+  position: absolute;
+
+}
+
+.ball{
+  width: 9.5px;
+  height: 9.5px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background: #F0F0F0;
+}
+
+#ball1{
+  margin-left: 501px;
+  margin-top: 161px;
+  position: absolute;
+}
+
+#ball2{
+  margin-left: 620px;
+  margin-top: 141px;
+  position: absolute;
+}
+
+#ball3{
+  margin-left: 760px;
+  margin-top: 255px;
+  position: absolute;
+}
+
+#phrase{
+  margin-left: 760px;
+  margin-top: 322px;
+  position: absolute;
+  font-size: 7px;
+  font-family: monospace;
+}
+>>>>>>> master
