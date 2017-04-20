@@ -52,11 +52,11 @@
 
 .ball{
   width: 9.5px;
-   height: 9.5px;
-   -moz-border-radius: 50%;
-   -webkit-border-radius: 50%;
-   border-radius: 50%;
-   background: #F0F0F0;
+  height: 9.5px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background: #F0F0F0;
 }
 
 #ball1{
@@ -75,7 +75,6 @@
   margin-left: 760px;
   margin-top: 255px;
   position: absolute;
-
 }
 
 #phrase{
@@ -84,5 +83,4 @@
   position: absolute;
   font-size: 7px;
   font-family: monospace;
-
 }
