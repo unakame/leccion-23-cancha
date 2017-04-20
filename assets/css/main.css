@@ -5,3 +5,14 @@
   background-color: #8DB27E;
   margin: 100px 800px 0px 430px;
 }
+
+#cuadro{
+  width:250px;
+  height: 70px;
+  padding: 70px;
+  border: 1px solid #F0F0F0;
+  margin-top: 109px;
+  margin-left: 440px;
+  z-index: +1;
+  position: absolute;
+}
