@@ -49,3 +49,31 @@
   position: absolute;
 
 }
+
+.ball{
+  width: 9.5px;
+   height: 9.5px;
+   -moz-border-radius: 50%;
+   -webkit-border-radius: 50%;
+   border-radius: 50%;
+   background: #F0F0F0;
+}
+
+#ball1{
+  margin-left: 501px;
+  margin-top: 161px;
+  position: absolute;
+}
+
+#ball2{
+  margin-left: 620px;
+  margin-top: 141px;
+  position: absolute;
+}
+
+#ball3{
+  margin-left: 760px;
+  margin-top: 255px;
+  position: absolute;
+
+}

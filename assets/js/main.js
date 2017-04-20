@@ -18,3 +18,18 @@ var cuadro1 = document.createElement("div");
 var cuadro2 = document.createElement("div");
               document.body.appendChild(cuadro2);
               cuadro2.setAttribute("id","square2");
+
+var esfera1= document.createElement("div");
+             document.body.appendChild(esfera1);
+             esfera1.setAttribute("class","ball");
+             esfera1.setAttribute("id","ball1");
+
+var esfera2= document.createElement("div");
+             document.body.appendChild(esfera2);
+             esfera2.setAttribute("class","ball");
+             esfera2.setAttribute("id","ball2");
+
+var esfera3= document.createElement("div");
+              document.body.appendChild(esfera3);
+              esfera3.setAttribute("class","ball");
+              esfera3.setAttribute("id","ball3");
